@@ -65,7 +65,8 @@
         "default",
         "title",
         "group",
-        "last modified"
+        "last modified",
+        "last opened"
       ]
     },
     "includeGitRepositories": {
